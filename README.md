@@ -1,6 +1,6 @@
 <div align="center">
 
-# Zahhak Studio
+<img src="assets/zahhak-studio.svg" alt="Zahhak Studio" width="260">
 
 **Otomasyonla başladık, işinizi internete taşıyoruz.**
 
@@ -41,6 +41,19 @@ Zahhak Studio began its journey with business automation. We built smart workflo
 **Open source**
 
 We build our products as a studio. Some pieces we love sharing with the community, like automation tools and agent orchestration. Contributions welcome: a UI theme, a plugin, an idea. Watch this space.
+
+---
+
+<div align="center">
+
+**Markalarımız · Our brands**
+
+<img src="assets/zahhak-studio.svg" alt="Zahhak Studio" width="200">&nbsp;&nbsp;&nbsp;&nbsp;<img src="assets/zahhak-labs.svg" alt="Zahhak Labs" width="200">
+
+<sub>**Zahhak Studio** üretim atölyemiz: e-ticaret, kurumsal web ve otomasyon çözümleri. **Zahhak Labs** deneme sahamız: açık kaynak araçlar, yazılar ve yeni fikirler burada filizlenir.<br>
+<i>Zahhak Studio is our production house for commerce, web, and automation. Zahhak Labs is our playground: open source tools, writing, and new ideas grow here.</i></sub>
+
+</div>
 
 ---
 

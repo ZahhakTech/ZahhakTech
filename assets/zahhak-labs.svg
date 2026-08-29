@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="280" height="72" viewBox="0 0 280 72" fill="none">
+  <defs>
+    <linearGradient id="zg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0ea5e9"/>
+      <stop offset="100%" stop-color="#10b981"/>
+    </linearGradient>
+  </defs>
+  <g transform="translate(4,4)">
+    <path d="M16 16 H48 M48 16 L16 48 M16 48 H48" stroke="url(#zg)" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="82" y="38" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-weight="600" fill="url(#zg)">Zahhak</text>
+  <text x="84" y="60" font-family="Helvetica, Arial, sans-serif" font-size="13" letter-spacing="9" fill="#7c8794">LABS</text>
+</svg>
