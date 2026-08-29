@@ -44,6 +44,6 @@ We build our products as a studio — but we love sharing some pieces with the c
 
 <div align="center">
 
-✉️ teckzahhak@gmail.com · 🌐 [zahhak.tech](https://zahhak.tech)
+✉️ info@zahhak.tech · 🌐 [zahhak.tech](https://zahhak.tech)
 
 </div>
