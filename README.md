@@ -50,8 +50,8 @@ We build our products as a studio. Some pieces we love sharing with the communit
 
 <img src="assets/zahhak-studio.svg" alt="Zahhak Studio" width="200">&nbsp;&nbsp;&nbsp;&nbsp;<img src="assets/zahhak-labs.svg" alt="Zahhak Labs" width="200">
 
-<sub>**Zahhak Studio** üretim atölyemiz: e-ticaret, kurumsal web ve otomasyon çözümleri. **Zahhak Labs** deneme sahamız: açık kaynak araçlar, yazılar ve yeni fikirler burada filizlenir.<br>
-<i>Zahhak Studio is our production house for commerce, web, and automation. Zahhak Labs is our playground: open source tools, writing, and new ideas grow here.</i></sub>
+<sub>**Zahhak Studio** üretim atölyemiz: e-ticaret, kurumsal web ve otomasyon çözümleri. **Zahhak Labs** blogumuz: yazılarımız ve paylaşımlarımız [blog.zahhak.tech](https://blog.zahhak.tech) adresinde.<br>
+<i>Zahhak Studio is our production house for commerce, web, and automation. Zahhak Labs is our blog: articles and updates live at <a href="https://blog.zahhak.tech">blog.zahhak.tech</a>.</i></sub>
 
 </div>
 
