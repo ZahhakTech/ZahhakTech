@@ -46,6 +46,6 @@ We build our products as a studio. Some pieces we love sharing with the communit
 
 <div align="center">
 
-✉️ info@zahhak.tech · 🌐 [zahhak.tech](https://zahhak.tech)
+✉️ info@zahhak.tech · 🌐 [zahhak.tech](https://zahhak.tech) · ✈️ [Telegram](https://t.me/zahhak_tech) · 📸 [Instagram](https://instagram.com/zahhak.tech)
 
 </div>
