@@ -1,3 +1,9 @@
+<!-- GitHub profile repository: public presentation, not an application runtime. -->
+
+Bu profil Zahhak Studio'nun herkese açık tanıtım alanıdır. Açık kaynaklar için [GitHub depolarına](https://github.com/ZahhakTech?tab=repositories) bakın; her deponun README ve lisansı kapsamını açıklar.
+
+This profile introduces Zahhak Studio. Browse our [public repositories](https://github.com/ZahhakTech?tab=repositories) and read each project's README and license for its scope.
+
 <div align="center">
 
 <img src="assets/zahhak-studio.svg" alt="Zahhak Studio" width="260">
