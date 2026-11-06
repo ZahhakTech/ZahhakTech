@@ -1,3 +1,5 @@
+<!-- GitHub profile repository: public presentation, not an application runtime. -->
+
 <div align="center">
 
 <img src="assets/zahhak-studio.svg" alt="Zahhak Studio" width="260">
